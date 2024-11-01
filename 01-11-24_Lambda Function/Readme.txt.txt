@@ -1,0 +1,1 @@
+I have learnt about Lamda function today.
