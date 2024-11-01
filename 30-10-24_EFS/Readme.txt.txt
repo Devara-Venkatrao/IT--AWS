@@ -1,0 +1,1 @@
+Today I revisioned EFS by using EC2. The data reflected to all instances by doing mount of packages.
