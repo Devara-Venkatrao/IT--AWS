@@ -1,0 +1,1 @@
+I have revised VPC by using EC2.
